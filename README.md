@@ -1,5 +1,7 @@
-Use Case: Clinic Booking System
-A clinic booking system tracks:
+**Use Case: Clinic Booking System
+
+
+**A clinic booking system tracks:
     Patients
    Doctors
  Appointments
